@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="uploads" path="uploads/" />
+    <cache-path name="cache" path="/" />
+    <cache-path name="shared_files" path="shared_files/" />
+    <cache-path
+        name="opened_files"
+        path="opened_files/" />
+</paths>
