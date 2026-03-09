@@ -9504,7 +9504,7 @@ fun generateNeetiSukti(
     onSuccess: (String, String) -> Unit,
     onError: (String) -> Unit
 ) {
-    val apiKey = "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"
+    val apiKey = "API_KEY"
 
     CoroutineScope(Dispatchers.IO).launch {
         try {
@@ -15479,7 +15479,7 @@ fun getAICookResponse(
     context: android.content.Context,
     onResponse: (String) -> Unit
 ) {
-    val apiKey = "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"
+    val apiKey = "API_KEY"
 
     CoroutineScope(Dispatchers.IO).launch {
         try {
